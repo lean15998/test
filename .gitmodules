@@ -1,0 +1,6 @@
+[submodule "roles/sshnotify"]
+	path = roles/sshnotify
+	url = https://github.com/lean15998/sshpolicy
+[submodule "roles/sshpolicy"]
+	path = roles/sshpolicy
+	url = https://github.com/lean15998/sshnotify
